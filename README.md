@@ -3,6 +3,7 @@ MVC is a design pattern used to decouple data (Models), the user-interfaces (Vie
 
 # Folders structure:
 
+```
 ├── src
 │   ├── app
 │   │   ├── bootstrap.php
@@ -36,6 +37,7 @@ MVC is a design pattern used to decouple data (Models), the user-interfaces (Vie
 ├── Dockerfile
 ├── docker-compose.yml
 └── README.md
+```
 
 # Model
 A model is an object that represents your data. The model will be modeled on your database table structure and it will interact with the database operations (create, read, update and delete or CRUD).
